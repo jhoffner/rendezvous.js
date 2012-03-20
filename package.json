@@ -1,0 +1,31 @@
+{ 
+	"name" : "rendezvous",
+	"version" : "0.1.0",
+	"description" : "Node.js Service Bus",
+	"main" : "index.js",
+	"keywords": [
+	    "events",
+	    "messaging",
+	    "realtime",
+	    "scheduler",
+	    "background jobs",
+	    "service bus",
+	    "RPC"
+	],
+	"author": {
+    	"name": "Jake Hoffner",
+    	"email": "jake.hoffner@gmail.com"
+  	},
+	"dependencies" : {
+		"connect" : ">=2.0.2",
+		"hardwire" : "",
+		"underscore" : "",
+		"vows" : "",
+		"messenger" : ""
+	},
+	"licenses": [
+	    {
+	      "type": "MIT"
+	 	}
+	 ]
+}
